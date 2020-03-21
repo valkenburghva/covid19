@@ -1,0 +1,8 @@
+plotly
+ipywidgets
+xlrd
+psutil
+requests
+orca
+pandas
+numpy
